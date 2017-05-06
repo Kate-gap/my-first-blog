@@ -25,7 +25,7 @@ SECRET_KEY = 'n(rkw*9rtp8-1$-+&&-g1_^p3wr_@+ef2yj4d*^opfx7yf0lq+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kategap4.pythonanywhere.com']
 
 
 # Application definition
